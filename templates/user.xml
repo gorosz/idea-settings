@@ -1,8 +1,0 @@
-<templateSet group="user">
-  <template name="legal" value="#############################################################################&#10;#&#10;# Blindspotter (tm)&#10;#&#10;# Copyright (c) $year$ BalaBit&#10;# All rights reserved.&#10;#&#10;#############################################################################" toReformat="true" toShortenFQNames="true">
-    <variable name="year" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="Bash" value="true" />
-    </context>
-  </template>
-</templateSet>
