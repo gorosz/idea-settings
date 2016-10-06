@@ -1,0 +1,3 @@
+<application>
+  <component name="GerritSettings" Login="gergelyorosz" Host="https://review.balabit" ListAllChanges="false" AutomaticRefresh="true" RefreshTimeout="30" ReviewNotifications="true" PushToGerrit="false" ShowChangeNumberColumn="false" ShowChangeIdColumn="true" />
+</application>
