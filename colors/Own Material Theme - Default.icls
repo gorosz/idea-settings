@@ -1,11 +1,4 @@
 <scheme name="Own Material Theme - Default" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-10-06T11:59:37</property>
-    <property name="ide">Idea</property>
-    <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2016-10-06T12:04:12</property>
-    <property name="originalScheme">Material Theme - Default</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Hermit" />
@@ -54,7 +47,7 @@
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
-    <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
+    <option name="RIGHT_MARGIN_COLOR" value="c3e6ed" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="314549" />
