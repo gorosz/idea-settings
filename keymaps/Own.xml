@@ -2,6 +2,9 @@
   <action id="Android.TraceViewSearch">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
@@ -11,6 +14,7 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
