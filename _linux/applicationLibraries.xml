@@ -23,6 +23,29 @@
         <root url="file://$USER_HOME$/Devel/bsp/bsp" />
       </SOURCES>
     </library>
+    <library name="Python 2.7.5 virtualenv at ~/Devel/Venvs/bsp interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Devel/Venvs/bsp/lib64/python2.7" />
+        <root url="file://$USER_HOME$/Devel/Venvs/bsp/lib64/python2.7/lib-dynload" />
+        <root url="file:///usr/lib64/python2.7" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file://$USER_HOME$/Devel/Venvs/bsp/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/288590708" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Devel/bsp/bsp" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Devel/Venvs/bsp/lib64/python2.7" />
+        <root url="file://$USER_HOME$/Devel/Venvs/bsp/lib64/python2.7/lib-dynload" />
+        <root url="file:///usr/lib64/python2.7" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file://$USER_HOME$/Devel/Venvs/bsp/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/288590708" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Devel/bsp/bsp" />
+      </SOURCES>
+    </library>
     <library name="scala-sdk-2.11.8" type="Scala">
       <properties>
         <compiler-classpath>

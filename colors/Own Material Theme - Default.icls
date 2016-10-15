@@ -1166,10 +1166,21 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="5a8ec1" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="82b1ff" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
