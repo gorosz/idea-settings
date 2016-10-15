@@ -963,6 +963,18 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="5e66cf" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ff5d38" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="15ab2" />
