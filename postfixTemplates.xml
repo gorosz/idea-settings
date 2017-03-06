@@ -1,0 +1,13 @@
+<application>
+  <component name="PostfixTemplatesSettings">
+    <option name="langDisabledTemplates">
+      <disabled-postfix-templates lang="Python">
+        <value>
+          <set>
+            <option value=".if" />
+          </set>
+        </value>
+      </disabled-postfix-templates>
+    </option>
+  </component>
+</application>
